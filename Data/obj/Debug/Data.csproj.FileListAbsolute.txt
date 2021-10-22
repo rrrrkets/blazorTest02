@@ -1,0 +1,12 @@
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\bin\Debug\Data.dll
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\bin\Debug\Data.pdb
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\obj\Debug\Data.dll
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\obj\Debug\Data.pdb
+C:\Users\rrrrk\Documents\Projects\Console\blazorTest02\Data\bin\Debug\Data.dll
+C:\Users\rrrrk\Documents\Projects\Console\blazorTest02\Data\bin\Debug\Data.pdb
+C:\Users\rrrrk\Documents\Projects\Console\blazorTest02\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\rrrrk\Documents\Projects\Console\blazorTest02\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\rrrrk\Documents\Projects\Console\blazorTest02\Data\obj\Debug\Data.dll
+C:\Users\rrrrk\Documents\Projects\Console\blazorTest02\Data\obj\Debug\Data.pdb

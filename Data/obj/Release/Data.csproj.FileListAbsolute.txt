@@ -1,0 +1,6 @@
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\bin\Release\Data.dll
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\bin\Release\Data.pdb
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\obj\Release\Data.csproj.AssemblyReference.cache
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\obj\Release\Data.csproj.CoreCompileInputs.cache
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\obj\Release\Data.dll
+C:\Users\rrrrk\Documents\Projects\Console\Client\Data\obj\Release\Data.pdb
